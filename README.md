@@ -1,6 +1,11 @@
 # Calculator Umur APP
 
-Aplikasi Perhitungan Umur Otomatis Berbasis Web Menggunakan PHP
+Aplikasi Perhitungan Umur Otomatis Berbasis Web Menggunakan PHP <br>
+Aplikasi Ini Dibuat Dengan :
+
+- HTML
+- Bootstrap 5
+- PHP
 
 # Fitur
 
